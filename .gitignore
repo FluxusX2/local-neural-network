@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# more igonring files
+*/.vscode
+*/.obsidian
