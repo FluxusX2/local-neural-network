@@ -41,5 +41,5 @@
 *.dwo
 
 # more igonring files
-*/.vscode
-*/.obsidian
+/.vscode
+/.obsidian
